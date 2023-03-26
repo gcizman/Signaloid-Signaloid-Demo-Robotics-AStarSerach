@@ -1,8 +1,9 @@
 [<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-dark-v6.svg#gh-dark-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=<https://github.com/gcizman/Signaloid-Signaloid-Demo-Robotics-AStarSearch>#gh-dark-mode-only)
 [<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-light-v6.svg#gh-light-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=<https://github.com/gcizman/Signaloid-Signaloid-Demo-Robotcs-AStarSearch>#gh-light-mode-only)
 
+#
 
-#A * Search Algorithm
+A * Search Algorithm
 
 This is an example implementation of the A* search algorithm1, which searches a graph for the shortest path between two nodes. To improve performance, heuristics are used to prioritise paths that are most likely to be optimal.
 
